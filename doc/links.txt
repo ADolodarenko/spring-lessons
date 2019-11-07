@@ -1,0 +1,3 @@
+http://websystique.com/springmvc/springmvc-hibernate-many-to-many-example-annotation-using-join-table/
+http://spring-projects.ru/guides/lessons/lesson-4/
+http://spring-projects.ru/guides/lessons/lesson-1/
